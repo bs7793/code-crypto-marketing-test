@@ -1,10 +1,10 @@
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
-Para crear el entorno de ejecución localmente es necesario tener Node.js instalado en una versión mayor a 20.
+Para crear el entorno de ejecución localmente es necesario tener Node.js instalado en una versión mayor a 20 y tener instalado Vercel.
 
 ```sh
-npm install vercel
+npm install vercel -g
 ```
 
 Para ejecutar la aplicación:
