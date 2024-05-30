@@ -31,6 +31,6 @@ api/valdar-nit
 api/validar-tarjeta
 ```sh
 {
- "nit": "585328-1"
+ "tarjeta": "585328-1"
 }
 ```
